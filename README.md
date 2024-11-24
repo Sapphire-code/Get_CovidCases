@@ -1,5 +1,6 @@
-this is the source code of the script I demonstrated on my video which is available here: https://www.youtube.com/watch?v=FNKlf5EweXM
-
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-the script basically only gets all the cases, deaths, and, recoveries.
+The script basically only gets all the cases, deaths, and, recoveries.
+
+
+<h3>Update<h3>: Since covid-19 is no longer relevant, the source used for the script is no longer reliable and therefore this script will no longer provide reliable statistics.
