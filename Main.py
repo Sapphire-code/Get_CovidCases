@@ -37,19 +37,3 @@ def Get_cdr():
 
 Get_cdr()
 input()
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
